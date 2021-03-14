@@ -1,0 +1,2 @@
+# ElectricBillCalculator
+Tkinter bill splitter
